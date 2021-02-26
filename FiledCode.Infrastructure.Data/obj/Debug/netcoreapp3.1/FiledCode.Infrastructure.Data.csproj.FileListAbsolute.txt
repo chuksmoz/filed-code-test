@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\FiledCode\FiledCode.Infrastructure.Data\bin\Debug\netcoreapp3.1\FiledCode.Infrastructure.Data.deps.json
+C:\Users\admin\source\repos\FiledCode\FiledCode.Infrastructure.Data\bin\Debug\netcoreapp3.1\FiledCode.Infrastructure.Data.runtimeconfig.json
+C:\Users\admin\source\repos\FiledCode\FiledCode.Infrastructure.Data\bin\Debug\netcoreapp3.1\FiledCode.Infrastructure.Data.runtimeconfig.dev.json
+C:\Users\admin\source\repos\FiledCode\FiledCode.Infrastructure.Data\bin\Debug\netcoreapp3.1\FiledCode.Infrastructure.Data.dll
+C:\Users\admin\source\repos\FiledCode\FiledCode.Infrastructure.Data\bin\Debug\netcoreapp3.1\FiledCode.Infrastructure.Data.pdb
+C:\Users\admin\source\repos\FiledCode\FiledCode.Infrastructure.Data\bin\Debug\netcoreapp3.1\FiledCode.Domain.dll
+C:\Users\admin\source\repos\FiledCode\FiledCode.Infrastructure.Data\bin\Debug\netcoreapp3.1\FiledCode.Domain.pdb
+C:\Users\admin\source\repos\FiledCode\FiledCode.Infrastructure.Data\obj\Debug\netcoreapp3.1\FiledCode.Infrastructure.Data.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\FiledCode\FiledCode.Infrastructure.Data\obj\Debug\netcoreapp3.1\FiledCode.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\FiledCode\FiledCode.Infrastructure.Data\obj\Debug\netcoreapp3.1\FiledCode.Infrastructure.Data.AssemblyInfo.cs
+C:\Users\admin\source\repos\FiledCode\FiledCode.Infrastructure.Data\obj\Debug\netcoreapp3.1\FiledCode.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\FiledCode\FiledCode.Infrastructure.Data\obj\Debug\netcoreapp3.1\FiledCode.Infrastructure.Data.csproj.CopyComplete
+C:\Users\admin\source\repos\FiledCode\FiledCode.Infrastructure.Data\obj\Debug\netcoreapp3.1\FiledCode.Infrastructure.Data.dll
+C:\Users\admin\source\repos\FiledCode\FiledCode.Infrastructure.Data\obj\Debug\netcoreapp3.1\FiledCode.Infrastructure.Data.pdb
+C:\Users\admin\source\repos\FiledCode\FiledCode.Infrastructure.Data\obj\Debug\netcoreapp3.1\FiledCode.Infrastructure.Data.genruntimeconfig.cache

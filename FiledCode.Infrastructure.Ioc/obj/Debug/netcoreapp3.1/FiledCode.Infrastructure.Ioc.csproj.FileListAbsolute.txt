@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\FiledCode\FiledCode.Infrastructure.Ioc\bin\Debug\netcoreapp3.1\FiledCode.Infrastructure.Ioc.deps.json
+C:\Users\admin\source\repos\FiledCode\FiledCode.Infrastructure.Ioc\bin\Debug\netcoreapp3.1\FiledCode.Infrastructure.Ioc.dll
+C:\Users\admin\source\repos\FiledCode\FiledCode.Infrastructure.Ioc\bin\Debug\netcoreapp3.1\FiledCode.Infrastructure.Ioc.pdb
+C:\Users\admin\source\repos\FiledCode\FiledCode.Infrastructure.Ioc\bin\Debug\netcoreapp3.1\FiledCode.Application.dll
+C:\Users\admin\source\repos\FiledCode\FiledCode.Infrastructure.Ioc\bin\Debug\netcoreapp3.1\FiledCode.Domain.dll
+C:\Users\admin\source\repos\FiledCode\FiledCode.Infrastructure.Ioc\bin\Debug\netcoreapp3.1\FiledCode.Application.pdb
+C:\Users\admin\source\repos\FiledCode\FiledCode.Infrastructure.Ioc\bin\Debug\netcoreapp3.1\FiledCode.Domain.pdb
+C:\Users\admin\source\repos\FiledCode\FiledCode.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\FiledCode.Infrastructure.Ioc.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\FiledCode\FiledCode.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\FiledCode.Infrastructure.Ioc.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\FiledCode\FiledCode.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\FiledCode.Infrastructure.Ioc.AssemblyInfo.cs
+C:\Users\admin\source\repos\FiledCode\FiledCode.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\FiledCode.Infrastructure.Ioc.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\FiledCode\FiledCode.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\FiledCode.Infrastructure.Ioc.csproj.CopyComplete
+C:\Users\admin\source\repos\FiledCode\FiledCode.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\FiledCode.Infrastructure.Ioc.dll
+C:\Users\admin\source\repos\FiledCode\FiledCode.Infrastructure.Ioc\obj\Debug\netcoreapp3.1\FiledCode.Infrastructure.Ioc.pdb
+C:\Users\admin\source\repos\FiledCode\FiledCode.Infrastructure.Ioc\bin\Debug\netcoreapp3.1\FiledCode.Infrastructure.Data.dll
+C:\Users\admin\source\repos\FiledCode\FiledCode.Infrastructure.Ioc\bin\Debug\netcoreapp3.1\FiledCode.Infrastructure.Data.pdb

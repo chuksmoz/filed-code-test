@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\FiledCode\FiledCode.Application\bin\Debug\netcoreapp3.1\FiledCode.Application.deps.json
+C:\Users\admin\source\repos\FiledCode\FiledCode.Application\bin\Debug\netcoreapp3.1\FiledCode.Application.dll
+C:\Users\admin\source\repos\FiledCode\FiledCode.Application\bin\Debug\netcoreapp3.1\FiledCode.Application.pdb
+C:\Users\admin\source\repos\FiledCode\FiledCode.Application\bin\Debug\netcoreapp3.1\FiledCode.Domain.dll
+C:\Users\admin\source\repos\FiledCode\FiledCode.Application\bin\Debug\netcoreapp3.1\FiledCode.Domain.pdb
+C:\Users\admin\source\repos\FiledCode\FiledCode.Application\obj\Debug\netcoreapp3.1\FiledCode.Application.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\FiledCode\FiledCode.Application\obj\Debug\netcoreapp3.1\FiledCode.Application.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\FiledCode\FiledCode.Application\obj\Debug\netcoreapp3.1\FiledCode.Application.AssemblyInfo.cs
+C:\Users\admin\source\repos\FiledCode\FiledCode.Application\obj\Debug\netcoreapp3.1\FiledCode.Application.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\FiledCode\FiledCode.Application\obj\Debug\netcoreapp3.1\FiledCode.Application.csproj.CopyComplete
+C:\Users\admin\source\repos\FiledCode\FiledCode.Application\obj\Debug\netcoreapp3.1\FiledCode.Application.dll
+C:\Users\admin\source\repos\FiledCode\FiledCode.Application\obj\Debug\netcoreapp3.1\FiledCode.Application.pdb
